@@ -1,0 +1,3 @@
+[submodule "submodules/python-exercises"]
+	path = submodules/python-exercises
+	url = https://github.com/dslsyeoh/python-exercises.git
